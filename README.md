@@ -1,1 +1,2 @@
-Hello world!
+Hello world.
+Added a new file.
