@@ -3,16 +3,16 @@ Added a new file.
 Last line in the file.
 
 <h2>GIT Commands:</h2>
-git config --global user.name "Your Name" // Configure Name<br>
-git config --global user.email youremail@domain.com // Configure email<br>
+git config --global user.name "Your Name"                         // Configure Name<br>
+git config --global user.email youremail@domain.com               // Configure email<br>
 <br>
-git init // start tracking current directory<br>
-git add . // add all files in current directory to staging area, making them available for commit<br>
-git commit -m "commit message" // commit your changes<br>
-git branch -M master // specifiy the branch<br>
-git remote add origin https://github.com/username/repo-name.git // add remote repository URL which contains the required details<br>
-git pull origin master // always pull from remote before pushing<br>
-git push -u origin master // publish changes to your remote repository<br>
+git init                                                          // start tracking current directory<br>
+git add .                                                         // add all files in current directory to staging area, making them available for commit<br>
+git commit -m "commit message"                                    // commit your changes<br>
+git branch -M master                                              // specifiy the branch<br>
+git remote add origin https://github.com/username/repo-name.git   // add remote repository URL which contains the required details<br>
+git pull origin master                                            // always pull from remote before pushing<br>
+git push -u origin master                                         // publish changes to your remote repository<br>
 <br>
 <br>
 <h2>How to Delete LOCAL Git repository:</h2>
